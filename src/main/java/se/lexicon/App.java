@@ -35,13 +35,15 @@ public class App
         volvoXC40.maxSpeed = 200;
         */
 
-
+/*
         Scanner sc= new Scanner(System.in);
         System.out.println("Please enter your first name: ");
         String firstName = sc.next();
         System.out.println("Enter your last name");
         String lastName = sc.next();
         System.out.println("My Name is " + firstName + " " + lastName);
+
+*/
 
 
 
